@@ -12,10 +12,6 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `barunJasae`,
-      href: "https://github.com/cho4u4o/barunJasae",
-    },
-    {
       name: `Saphy`,
       href: "https://github.com/2024-Saphy",
     },
@@ -30,20 +26,21 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "역대급 블로그",
+    title: "cho4u4o.log",
     description: "welcome to cho4u4ooo",
-    scheme: "auto",
+    scheme: "light",
   },
 
   // CONFIG configration (required)
   link: "https://morethan-log.vercel.app",
-  since: 2022, // If leave this empty, current year will be used.
-  lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
+  since: 2023, // If leave this empty, current year will be used.
+  lang: "ko-KR", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
 
   // notion configuration (required)
   notionConfig: {
-    pageId: process.env.NOTION_PAGE_ID,
+    // pageId: process.env.NOTION_PAGE_ID,
+    pageId: "1603d2ec9db58065ac04e1b4896019f4",
   },
 
   // plugin configuration (optional)
