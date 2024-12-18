@@ -6,15 +6,15 @@ const NavBar: React.FC = () => {
     // { id: 1, name: "About", to: "/about" }
   ]
   return (
-    <StyledWrapper className="">
-      <ul>
-        {links.map((link) => (
-          <li key={link.id}>
-            <Link href={link.to}>{link.name}</Link>
-          </li>
-        ))}
-      </ul>
-    </StyledWrapper>
+    // <StyledWrapper className="">
+    //   <ul>
+    //     {links.map((link) => (
+    //       <li key={link.id}>
+    //         <Link href={link.to}>{link.name}</Link>
+    //       </li>
+    //     ))}
+    //   </ul>
+    // </StyledWrapper>
   )
 }
 
