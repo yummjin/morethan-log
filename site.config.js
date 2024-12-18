@@ -32,7 +32,7 @@ const CONFIG = {
   blog: {
     title: "역대급 블로그",
     description: "welcome to cho4u4ooo",
-    theme: "auto",
+    scheme: "auto",
   },
 
   // CONFIG configration (required)
