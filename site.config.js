@@ -23,6 +23,10 @@ const CONFIG = {
       name: `Team-Pu`,
       href: "https://www.team-pu.site/",
     },
+    {
+      name: `FestaMate`,
+      href: "https://www.team-pu.site/",
+    },
   ],
   // blog setting (required)
   blog: {
