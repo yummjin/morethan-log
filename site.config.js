@@ -27,6 +27,10 @@ const CONFIG = {
       name: `FestaMate`,
       href: "https://www.team-pu.site/",
     },
+    {
+      name: `Soup`,
+      href: "https://github.com/Team-Soup-Soup",
+    },
   ],
   // blog setting (required)
   blog: {
