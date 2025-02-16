@@ -1,14 +1,14 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "cho4u4o",
-    image: "/avatar.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    name: "yummjin",
+    image: "/avatar.jpeg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "Frontend developer",
-    bio: "프론트엔드 공부를 합니다.",
+    bio: "",
     email: "cho4u4o@gmail.com",
     linkedin: "",
-    github: "cho4u4o",
-    instagram: "",
+    github: "yummjin",
+    instagram: "yumnmjin",
   },
   projects: [
     {
@@ -34,8 +34,8 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "cho4u4o.log",
-    description: "welcome to cho4u4ooo",
+    title: "yummjin.log",
+    description: "Welcome to yummjinlog!",
     scheme: "dark",
   },
 
