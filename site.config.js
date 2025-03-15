@@ -25,7 +25,7 @@ const CONFIG = {
     },
     {
       name: `FestaMate`,
-      href: "https://www.team-pu.site/",
+      href: "https://festamate-web.vercel.app/",
     },
     {
       name: `Soup`,
